@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Heng Yu, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : Embedded Systems,\n Artificial Intelligence,\n Electronic Design Automation
+  bio              : "Embedded Systems,\n Artificial Intelligence,\n Electronic Design Automation"
   location         : # "Earth"
   employer         : CS@UNNC
   uri              : # URL
@@ -37,10 +37,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
+  researchgate     : "https://www.researchgate.net/profile/Heng-Yu-9?ev=hdr_xprf"
   orcid            : "https://orcid.org/0000-0002-0305-2135"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Heng-Yu-9?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
