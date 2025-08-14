@@ -30,7 +30,8 @@ author:
     Artificial Intelligence,
     Electronic Design Automation
   location         : # "Earth"
-  employer         : "UNNC_CS"
+  employer         : |
+    [UNNC_CS](https://portal.nottingham.edu.cn/)
   uri              : # URL
   email            : "heng.yu@nottingham.edu.cn" 
 
