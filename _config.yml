@@ -26,10 +26,10 @@ author:
   name             : "Heng Yu, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Embedded Systems, Artificial Intelligence, Electronic Design Automation"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : "University of Nottingham Ningbo China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "heng.yu@nottingham.edu.cn" 
 
   # Academic websites
   academia         : # URL
