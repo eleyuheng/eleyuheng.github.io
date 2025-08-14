@@ -25,11 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Heng Yu, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : Embedded Systems,
-    Artificial Intelligence,
-    Electronic Design Automation
+  bio              : Embedded Systems,/n Artificial Intelligence,/n Electronic Design Automation
   location         : # "Earth"
-  employer         : <a href="https://portal.nottingham.edu.cn/">unnc_cs</a>
+  employer         : CS@UNNC
   uri              : # URL
   email            : "heng.yu@nottingham.edu.cn" 
 
