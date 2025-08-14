@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Heng Yu, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : 'Embedded Systems,
-      Artificial Intelligence, 
-      Electronic Design Automation'
+  bio              : "Embedded Systems,\n Artificial Intelligence,\n Electronic Design Automation“
   location         : # "Earth"
   employer         : "UNNC_Cs"
   uri              : # URL
