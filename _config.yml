@@ -23,9 +23,9 @@ repository               : "eleyuheng/eleyuheng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Heng Yu, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Embedded Systems, Artificial Intelligence, Electronic Design Automation"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
