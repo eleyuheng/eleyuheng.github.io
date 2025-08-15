@@ -19,7 +19,7 @@ This is Dr. Heng Yu's research site. He is currently an Associate Professor in t
 
 # Publications
 
-Most up-to-date list at [Google Scholar](https://www.google.com).</br>
+Most up-to-date list at [Google Scholar](https://www.google.com).<br>
 Some available at [ResearchGate](https://www.researchgate.net/profile/Heng-Yu-9?ev=hdr_xprf) with PDFs.
 
 
