@@ -19,7 +19,10 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-        
+
+  - title: "Team"
+    url: /portfolio/
+    
   #- title: "Blog Posts"
   #  url: /year-archive/
     
@@ -27,7 +30,7 @@ main:
   #  url: /cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #  url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
