@@ -1,8 +1,9 @@
 ---
-title: "Bio"
+title: "Short Biography"
 permalink: /bio/
 author_profile: true
 ---
+
 
 Dr. Heng Yu obtained his Ph.D. degree from the National University of Singapore (NUS) in 2012. Since his graduation, he has been working as a research scientist and a research fellow at the University of Erlangen-Nuremberg, Germany and NUS, respectively. Prior to his appointment as an Associate Professor at UNNC, he was an Assistant Professor at the United Arab Emirates University in UAE, briefly as a Xinghai Associate Professor at Dalian Maritime University, and an Assistant Professor at UNNC CS. From 2014 to 2016, he served as a R&D director in a big data enterprise in Shenzhen, China.
 
