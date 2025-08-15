@@ -11,4 +11,4 @@ His research interests focus on theory and practice in different abstraction lev
 
 He has been the PI/Co-PI for multiple National/Provincial/Municipal level grants from NSFC, MoHRSS, Zhejiang NSF, Ningbo S&T Bureau, Ningbo Finance Bureau, Abu Dhabi Dept. of Educaiton and Knowledge, etc. He served as the Associate Editor for IEEE Transactions on Circuits and Systems II: Express Briefs.
 
-He is an IEEE Senior Member, ACM Member, and CCF Member. He is a Fellow of HEA, UK.
+He is an IEEE Senior Member, ACM Member, and CCF Member. He is a Fellow of HEA, UK. He was born in Dalian, China.
