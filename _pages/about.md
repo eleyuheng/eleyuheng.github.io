@@ -9,7 +9,7 @@ redirect_from:
 
 This is Dr. Heng Yu's research site. He is currently an Associate Professor in the School of Computer Science, University of Nottingham Ningbo China. His current researh interest lies in embedded AI and AI-empowered digital system design, with focus on system-level algorithms leveraging application's or circuit's adaptability for optimization. Find more about him in the [Bio page](https://eleyuheng.github.io/publications/).
 
-> PhD vacancies available for the above research directions. Motivated students with a relevant MSc. or MEng. degree (or excellent Bachelor degree) are welcome to contact him for discussion.
+> Ph.D. vacancies available for the above research directions. Motivated students with a relevant MSc. or MEng. degree (or excellent Bachelor degree) are welcome to contact him for discussion.
 
 # Heads-up
 
