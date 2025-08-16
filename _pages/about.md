@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Heng Yu"
 author_profile: true
 redirect_from: 
   - /about/
