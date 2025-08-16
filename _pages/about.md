@@ -14,6 +14,7 @@ This is Dr. Heng Yu's research site. He is currently an Associate Professor in t
 # Heads-up
 
 - [2025-03-31] Yuting's work "De<sup>2</sup>r: Unifying DVFS and Early-Exit for Embedded AI Inference via Reinfocement Learning" presented at DATE'25, Lyon, France. [DOI][PDF][Video]
+- [2024-09-19] Fangcheng's FYP work "A Scenario-Customizable and Visual-Rendering Simulator for on-Vehicle Vibration Energy Harvesting" accepted by Sustainable Computing: Informatics and Systems. [DOI][PDF][Code]
 - [2024-09-13] Jingjin's work "FIDRL: Flexible Invocation-based Deep Reinforcement Learning for DVFS Scheduling in Embedded Systems" accepted by IEEE Trans. Computers. [DOI][PDF][Video]
 
 
