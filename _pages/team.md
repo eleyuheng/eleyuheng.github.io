@@ -12,8 +12,8 @@ Ph.D. supervision
 - Ms. Yuting He (enrolled 2023, B.Sc. in UNNC)
 
 Co-supervision
-- Ruxin Ding (enrolled 2021, co-supervised with Dr. Jiawei Li and Dr. Jianfeng Ren)
-- Fanfan Yang (enrolled 2022, co-supervised with Dr. Jiawei Li and Dr. Tianxiang Cui)
+- Ms. Ruxin Ding (enrolled 2021, co-supervised with Dr. Jiawei Li and Dr. Jianfeng Ren)
+- Mr. Fanfan Yang (enrolled 2022, co-supervised with Dr. Jiawei Li and Dr. Tianxiang Cui)
 
 Collaboration
 - Mr. Jianwen Luo (supervised by Prof. Yajun Ha)
