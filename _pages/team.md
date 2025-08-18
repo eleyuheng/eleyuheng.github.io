@@ -22,4 +22,4 @@ Collaboration
 - Dr. Fupeng Chen (supervised by Prof. Yajun Ha)
 
 Undergraduate dissertation (ordered by years of supervision)<br>
-Yifan Yu (NTU), Lingkang Zhu(PhD candidate in EIST/HKPoly), Zhikai Hu (CMU), Fangcheng Guo (Tencent, Shenzhen), Yongjing Qi (Imperial College), Kailiang Nan (Duke), Tianqi Xia (Rice), and all.
+- Yifan Yu (NTU), Lingkang Zhu(PhD candidate in EIST/HKPoly), Zhikai Hu (CMU), Fangcheng Guo (Tencent, Shenzhen), Yongjing Qi (Imperial College), Kailiang Nan (Duke), Tianqi Xia (Rice), and all.
