@@ -4,7 +4,7 @@ permalink: /team/
 author_profile: true
 ---
 
-It has been my privilege to work with the Ph.D. students, and to teach and learn from my talented master and undergraduate supervisees. 
+It has been my great privilege to work with the Ph.D. students, and to teach and learn from my talented master and undergraduate supervisees. 
 
 Ph.D. supervision
 - Mr. Qingyu Yang (enrolled 2022, B.Eng. in HIT)
