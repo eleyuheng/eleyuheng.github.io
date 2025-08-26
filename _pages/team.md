@@ -7,13 +7,13 @@ author_profile: true
 It has been my great privilege to work with the Ph.D. students, and to teach and learn from my talented master and undergraduate supervisees. 
 
 Ph.D. supervision
-- Mr. Qingyu Yang (enrolled 2022, B.Eng. in HIT)
-- Mr. Jingjin Li (enrolled 2022, B.Sc. in UNNC)
 - Ms. Yuting He (enrolled 2023, B.Sc. in UNNC)
+- Mr. Jingjin Li (enrolled 2022, B.Sc. in UNNC)
+- Mr. Qingyu Yang (enrolled 2022, B.Eng. in HIT)
 
 Co-supervision
-- Ms. Ruxin Ding (enrolled 2021, co-supervised with Dr. Jiawei Li and Dr. Jianfeng Ren)
 - Mr. Fanfan Yang (enrolled 2022, co-supervised with Dr. Jiawei Li and Dr. Tianxiang Cui)
+- Ms. Ruxin Ding (enrolled 2021, co-supervised with Dr. Jiawei Li and Dr. Jianfeng Ren)
 
 Collaboration
 - Mr. Jianwen Luo (supervised by Prof. Yajun Ha)
