@@ -15,3 +15,7 @@ Contemporary pathways to realize and optimize AI on embedded devices are model-l
 
 ![Embedded AI!](/images/EmbeddedAI.png "Embedded AI")
 
+### AI-Assisted EDA
+I also exploite the possibility of pplying AI into the Electronic Design Automation (EDA) process. My work scatters in different EDA stages, including LLM-based HLS, GNN-based placement and routing, verification, etc. But more to come. Stay tuned!
+
+![AI-Assisted EDA!](/images/AIAssistedEDA.png "AI-Assisted EDA")
