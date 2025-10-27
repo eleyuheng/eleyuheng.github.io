@@ -12,6 +12,7 @@ Ph.D. supervision
 - Mr. Qingyu Yang (enrolled 2022, B.Eng. in HIT)
 
 Co-supervision
+- Mr. Zhiqi Gao (enrolled 2025, co-supervised with Dr. Zheng Wang and Dr. Yiqun Zhu)
 - Mr. Fanfan Yang (enrolled 2022, co-supervised with Dr. Jiawei Li and Dr. Tianxiang Cui)
 - Ms. Ruxin Ding (enrolled 2021, co-supervised with Dr. Jiawei Li and Dr. Jianfeng Ren)
 
